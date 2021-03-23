@@ -3,13 +3,13 @@
 技术学习。
 
 
-- 🍓 个人博客：https://github.com/leoxiaoge/blog
+- 🍓 博客：https://github.com/leoxiaoge/blog
 
-- 🍓 个人网站：http://lcbblog.com/
+- 🍓 网站：http://lcbblog.com/
 
 - 🍓 掘金专栏：https://juejin.cn/user/1310273592106424
 
-- 🍉 微信：[javascript-master (标)](./images/CB834301747.jpeg)
+- 🍉 微信：[javascript-master](./images/CB834301747.jpeg)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
