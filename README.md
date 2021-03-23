@@ -1,9 +1,7 @@
 > **时光正好，未来可期 ！**
 
-技术学习。
 
-
-- 🍓 博客：https://github.com/leoxiaoge/blog
+- 🍓 博客：https://github.com/leoxiaoge/leoxiaoge.github.io
 
 - 🍓 网站：http://lcbblog.com/
 
@@ -14,6 +12,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact)](https://github.com/leoxiaoge)
 
 <details>
 <summary>More Repositories ...</summary>
