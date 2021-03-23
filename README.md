@@ -1,8 +1,6 @@
 > **时光正好，未来可期 ！**
 
 
-- 🍓 博客：https://github.com/leoxiaoge/leoxiaoge.github.io
-
 - 🍓 网站：http://lcbblog.com/
 
 - 🍓 掘金专栏：https://juejin.cn/user/1310273592106424
