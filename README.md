@@ -3,7 +3,7 @@
 
 - 🍓 网站：http://lcbblog.com/
 
-- 🍓 掘金专栏：https://juejin.cn/user/1310273592106424
+- 🍓 掘金：https://juejin.cn/user/1310273592106424
 
 - 🍉 微信：[javascript-master](./images/CB834301747.jpeg)
 
