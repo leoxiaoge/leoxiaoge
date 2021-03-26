@@ -4,7 +4,7 @@
 
 - 🍓 网站：http://lcbblog.com/
 - 🍉 微信：[javascript-master](./images/CB834301747.jpeg)
-- 📫 我的邮箱: [1269286430@qq.com](mailto:1269286430@qq.com);
+- 📫 我的邮箱: [1269286430@qq.com](mailto:1269286430@qq.com)
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/1310273592106424)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
