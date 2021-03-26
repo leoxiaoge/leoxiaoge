@@ -6,6 +6,10 @@
 - 🍉 微信：[javascript-master](./images/CB834301747.jpeg)
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/1310273592106424)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+----------
+
 **技术栈 与 开发工具:**
 
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/javascript.png"></code>
@@ -13,10 +17,6 @@
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/vue.png"></code>
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/git.png"></code>
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/webstorm.png"></code>
-
-----------
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact)](https://github.com/leoxiaoge)
 
