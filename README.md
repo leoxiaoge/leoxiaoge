@@ -10,6 +10,8 @@
 
 ----------
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact)](https://github.com/leoxiaoge)
+
 **技术栈 与 开发工具:**
 
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/javascript.png"></code>
@@ -17,8 +19,6 @@
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/vue.png"></code>
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/git.png"></code>
 <code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/webstorm.png"></code>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact)](https://github.com/leoxiaoge)
 
 <details>
 <summary>More Repositories ...</summary>
