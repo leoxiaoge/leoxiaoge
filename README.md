@@ -1,4 +1,4 @@
-> **时光正好，未来可期 ！**
+> **时光正好，未来可期 ！<img src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/hello.gif" width="25px">**
 
   <img align="right" alt="GIF" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/code.gif" width="430" height="100%" />
 
