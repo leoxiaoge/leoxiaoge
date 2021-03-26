@@ -1,6 +1,6 @@
 > **时光正好，未来可期 ！**
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/code.gif" width="430" height="100%" />
 
 - 🍓 网站：http://lcbblog.com/
 - 🍉 微信：[javascript-master](./images/CB834301747.jpeg)
@@ -8,13 +8,11 @@
 
 **技术栈 与 开发工具:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/likaia/likaia/blob/main/webstorm.png"></code>
-
-**我的开源项目:**
+<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/javascript.png"></code>
+<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/typescript.png"></code>
+<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/vue.png"></code>
+<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/git.png"></code>
+<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/webstorm.png"></code>
 
 ----------
 
