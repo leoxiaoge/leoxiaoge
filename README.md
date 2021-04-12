@@ -12,8 +12,8 @@
 
 <code><img height="20" src="http://116.62.158.111/images/github/javascript.png"></code>
 <code><img height="20" src="http://116.62.158.111/images/github/typescript.png"></code>
-<code><img height="20" src="http://116.62.158.111/images/github/images/vue.png"></code>
-<code><img height="20" src="http://116.62.158.111/images/github/images/git.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/vue.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/git.png"></code>
 <code><img height="20" src="http://116.62.158.111/images/github/webstorm.png"></code>
 
 ----------
