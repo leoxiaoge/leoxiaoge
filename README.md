@@ -1,6 +1,6 @@
-> **时光正好，未来可期 ！<img src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/hello.gif" width="25px">**
+> **时光正好，未来可期 ！<img src="http://116.62.158.111/images/github/hello.gif" width="25px">**
 
-  <img align="right" alt="GIF" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="http://116.62.158.111/images/github/code.gif" width="430" height="100%" />
 
 - 🍉 网站：http://lcbblog.com/
 - 📫 邮箱: [1269286430@qq.com](mailto:1269286430@qq.com)
@@ -10,11 +10,11 @@
 
 **技术栈 与 开发工具:**
 
-<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/javascript.png"></code>
-<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/typescript.png"></code>
-<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/vue.png"></code>
-<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/git.png"></code>
-<code><img height="20" src="https://github.com/leoxiaoge/leoxiaoge/blob/main/images/webstorm.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/javascript.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/typescript.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/images/vue.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/images/git.png"></code>
+<code><img height="20" src="http://116.62.158.111/images/github/webstorm.png"></code>
 
 ----------
 
