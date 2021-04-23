@@ -8,6 +8,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+----------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact&show_icons=true&theme=vue)](https://github.com/leoxiaoge)
+
 **技术栈 与 开发工具:**
 
 <code><img height="20" src="http://116.62.158.111/images/github/javascript.png"></code>
@@ -15,10 +19,6 @@
 <code><img height="20" src="http://116.62.158.111/images/github/vue.png"></code>
 <code><img height="20" src="http://116.62.158.111/images/github/git.png"></code>
 <code><img height="20" src="http://116.62.158.111/images/github/webstorm.png"></code>
-
-----------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact&show_icons=true&theme=vue)](https://github.com/leoxiaoge)
 
 <details>
 <summary>More Repositories ...</summary>
