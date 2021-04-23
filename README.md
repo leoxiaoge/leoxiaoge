@@ -1,6 +1,6 @@
- <img align="right" alt="GIF" src="http://116.62.158.111/images/github/code.gif" width="430" height="100%" />
-
 > **时光正好，未来可期 ！<img src="http://116.62.158.111/images/github/hello.gif" width="25px">**
+
+ <img align="right" alt="GIF" src="http://116.62.158.111/images/github/code.gif" width="430" height="100%" />
 
 - 🍉 网站：http://lcbblog.com/
 - 📫 邮箱: [1269286430@qq.com](mailto:1269286430@qq.com)
