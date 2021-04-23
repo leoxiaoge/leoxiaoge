@@ -6,7 +6,7 @@
 - 📫 邮箱: [1269286430@qq.com](mailto:1269286430@qq.com)
 - 📝 [掘金(开源社区)主页](https://juejin.cn/user/1310273592106424)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact)](https://github.com/leoxiaoge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiaoge&layout=compact&show_icons=true&theme=vue)](https://github.com/leoxiaoge)
 
 **技术栈 与 开发工具:**
 
