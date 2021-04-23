@@ -18,7 +18,7 @@
 
 ----------
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>More Repositories ...</summary>
