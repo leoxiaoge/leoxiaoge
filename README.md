@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="http://116.62.158.111/images/github/code.gif" width="230" height="100%" />
+ <img align="right" alt="GIF" src="http://116.62.158.111/images/github/code.gif" width="360" height="100%" />
  
 > **时光正好，未来可期 ！<img src="http://116.62.158.111/images/github/hello.gif" width="25px">**
 
