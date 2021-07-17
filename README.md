@@ -5,7 +5,7 @@
 - 🍉 网站：http://lcbblog.com/
 - 📝 [掘金(开源社区)主页](https://juejin.cn/user/1310273592106424)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leoxiaoge&show_icons=true&show_owner=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialSisterYi&count_private=true&theme=cobalt&show_icons=true)
 
