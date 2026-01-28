@@ -26,7 +26,4 @@
 <a href="https://github.com/leoxiaoge/mall">
   <img alt="leoxiaoge" src="https://github-readme-stats.vercel.app/api/pin/?username=leoxiaoge&repo=mall&show_owner=true" />
 </a>
-<a href="https://github.com/leoxiaoge/Multi-terminal">
-  <img alt="leoxiaoge" src="https://github-readme-stats.vercel.app/api/pin/?username=leoxiaoge&repo=Multi-terminal&show_owner=true" />
-</a>
 </details>
